@@ -7,10 +7,6 @@ URL: https://remed.webs.upv.es/congreso/
 2. [Titles](#titles)
 2. [Authors](#authors)
 2. [Overview](#overview)
-3. [Configuration](#configuration)
-   1. [Base Setup](#base-setup)
-4. [Uninstall](#uninstall)
-5. [Troubleshooting](#troubleshooting)
 
 ## Titles
 
